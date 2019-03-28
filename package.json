@@ -1,0 +1,13 @@
+{
+  "id": "mastodon",
+  "name": "Mastodon",
+  "version": "1.0.0",
+  "description": "Mastodon",
+  "main": "index.js",
+  "author": "Markus Hatvan <markus_hatvan@aon.at>",
+  "repository": "https://github.com/mhatvan/recipe-franz-mastodon",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mastodon.social/auth/sign_in"
+  }
+}
